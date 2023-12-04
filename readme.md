@@ -62,7 +62,7 @@ int main(){
 	h_word=g_w();
 	org=h_word;
 	chance+=org.length();
-	cout<<h_word<<" guessed the word"<<endl;
+	cout<<" guessed the word"<<endl;//<<h_word
 	p_s();
 	while(1){
 		cout<<"enter the letter>>";
