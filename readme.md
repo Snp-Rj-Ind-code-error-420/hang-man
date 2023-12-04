@@ -12,7 +12,8 @@
 - [source code](https://github.com/Snp-Rj-Ind-code-error-420/hang-man/releases/download/hangman/hang.man.cpp)
 
 
-
+# Output
+![src_image](https://github.com/Snp-Rj-Ind-code-error-420/hang-man/assets/80396878/084ab812-f208-4dd9-b085-56686de1176d)
 
 
 
