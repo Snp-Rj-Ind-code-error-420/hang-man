@@ -1,4 +1,23 @@
-#include <iostream>
+# UNIVERSITY PROJECT (credit:LUMINAR) 
+
+- HANG MAN
+
+> [!warning]
+> do not copy the program some update are left for specific purpose. use this as refference for your project to understand the working & basic concept of the program. 
+
+- [x] work completed
+
+
+
+
+
+
+
+
+
+
+
+```#include <iostream>
 #include <random>
 #include<time.h>
 using namespace std;
@@ -64,4 +83,4 @@ int main(){
 
 
 
-
+```
